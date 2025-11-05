@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Shane - n8n Automation Engineer",
-  description: "Senior n8n automation engineer specializing in workflow automation, API integrations, and business process optimization",
+  title: "Shane - AI Expert & Automation Engineer",
+  description: "AI expert and automation engineer specializing in machine learning, NLP, LLMs, and intelligent workflow automation",
 };
 
 export default function RootLayout({ children }) {
